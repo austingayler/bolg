@@ -2,6 +2,8 @@ backend:
   name: github
   repo: austingayler/bolg
   branch: main
+  auth_scope: repo
+  client_id: "Ov23lilCn1D7IrWTCa4B"
 
 media_folder: "assets/img"
 public_folder: "/blog/assets/img"
