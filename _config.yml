@@ -1,0 +1,14 @@
+title: My Blog
+description: Personal writing, photos, and notes
+theme: minimal-mistakes-jekyll
+
+url: "https://austingayler.github.io"
+baseurl: "/blog"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
