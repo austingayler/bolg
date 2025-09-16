@@ -1,6 +1,5 @@
 title: My Blog
 description: Personal writing, photos, and notes
-theme: minimal-mistakes-jekyll
 
 url: "https://austingayler.github.io"
 baseurl: "/blog"
