@@ -1,5 +1,6 @@
 title: My Blog
 description: Personal writing, photos, and notes
+theme: jekyll-theme-cayman
 
 url: "https://austingayler.github.io"
 baseurl: "/blog"
@@ -12,5 +13,3 @@ plugins:
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
-
-remote_theme: "mmistakes/minimal-mistakes@4.24.0" # pin a stable release
