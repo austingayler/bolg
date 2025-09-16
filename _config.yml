@@ -8,6 +8,7 @@ baseurl: "/blog"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 markdown: kramdown
 paginate: 5
