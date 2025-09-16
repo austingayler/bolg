@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: username/blog
+  repo: austingayler/bolg
   branch: main
 
 media_folder: "assets/img"
