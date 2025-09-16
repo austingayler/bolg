@@ -12,3 +12,5 @@ plugins:
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
+
+remote_theme: mmistakes/minimal-mistakes
